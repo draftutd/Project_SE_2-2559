@@ -1,0 +1,15 @@
+.settings
+.classpath
+.project
+target
+annotations/src/main/java/org
+bin
+*/bin
+*.ipr
+*.iml
+*.iws
+.idea
+.DS_Store
+log.roo
+sa.properties
+sa.script
